@@ -1,3 +1,5 @@
+//this program use to clone a process
+
 #include <stdio.h>
 #include <sched.h>
 #include <stdlib.h>
